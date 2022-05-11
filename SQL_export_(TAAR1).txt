@@ -1,0 +1,13 @@
+DROP TABLE IF EXISTS nonredundent;
+
+
+CREATE TABLE nonredundent (
+)
+COMMENT = 'fna';
+/**
+@table: nonredundent
+@description: fna
+@location: 360.0 592.5
+@colors: title(#FFD1D1D1)
+*/
+
